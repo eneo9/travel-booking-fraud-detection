@@ -2,7 +2,7 @@
 
 ## Dashboard Screenshots
 
-### Fraud Overview
+### Chargebacks and Fraud Patterns
 
 ![Fraud Overview](Screenshots/fraud_overview.png)
 
@@ -10,7 +10,7 @@
 
 ![Fraud Investigation](Screenshots/fraud_investigation.png)
 
-### Chargebacks and Fraud Patterns
+### Fraud Overview
 
 ![Chargebacks and Fraud Patterns](Screenshots/chargebacks_fraud_patterns.png)
 I created this project to explore how suspicious travel bookings could be identified using SQL rules, risk scoring and Power BI.
