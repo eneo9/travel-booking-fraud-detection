@@ -87,9 +87,3 @@ travel-booking-fraud-detection/
 ├── generate_travel_fraud_data_v2.py
 ├── .gitignore
 └── README.md
-
-Then check it:
-
-```bash
-head -20 README.md
-
