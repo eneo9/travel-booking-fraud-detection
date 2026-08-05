@@ -2,17 +2,22 @@
 
 ## Dashboard Screenshots
 
-### Chargebacks and Fraud Patterns
+### Fraud Overview
 
-![Fraud Overview](Screenshots/fraud_overview.png)
+![Chargebacks and Fraud Patterns](Screenshots/chargebacks_fraud_patterns.png)
+
 
 ### Fraud Investigation
 
 ![Fraud Investigation](Screenshots/fraud_investigation.png)
 
-### Fraud Overview
 
-![Chargebacks and Fraud Patterns](Screenshots/chargebacks_fraud_patterns.png)
+### Chargebacks and Fraud Patterns
+
+![Fraud Overview](Screenshots/fraud_overview.png)
+
+
+
 I created this project to explore how suspicious travel bookings could be identified using SQL rules, risk scoring and Power BI.
 
 The project uses synthetic data that I generated with Python. It includes customers, bookings, payments, passengers, chargebacks and confirmed fraud cases.
