@@ -1,0 +1,450 @@
+chargeback_id,payment_id,chargeback_date,chargeback_amount,chargeback_reason
+1,19,2026-03-02,1140.31,Service not received
+2,34,2025-08-02,745.80,Card reported stolen
+3,43,2026-02-04,2517.10,Card reported stolen
+4,75,2026-01-08,2254.62,Service not received
+5,83,2025-09-20,2129.75,Cardholder did not recognise transaction
+6,91,2025-11-29,2986.20,Card reported stolen
+7,127,2025-06-26,931.55,Cardholder did not recognise transaction
+8,139,2026-08-08,2193.93,Service not received
+9,176,2026-06-08,1987.41,Service not received
+10,185,2026-08-04,724.93,Fraudulent transaction
+11,216,2026-05-06,3041.74,Duplicate transaction
+12,230,2025-04-10,1818.64,Fraudulent transaction
+13,242,2025-08-26,1563.82,Card reported stolen
+14,246,2026-01-15,3151.76,Duplicate transaction
+15,265,2025-09-10,2985.54,Duplicate transaction
+16,273,2026-04-12,1933.31,Duplicate transaction
+17,290,2025-03-13,1353.96,Cardholder did not recognise transaction
+18,292,2025-11-09,2350.75,Duplicate transaction
+19,294,2025-06-01,2548.63,Fraudulent transaction
+20,307,2026-05-21,1950.12,Fraudulent transaction
+21,308,2025-11-15,423.34,Cardholder did not recognise transaction
+22,342,2026-06-03,1690.59,Service not received
+23,350,2025-04-03,2511.52,Cardholder did not recognise transaction
+24,352,2026-03-11,2304.42,Card reported stolen
+25,359,2026-08-08,2204.34,Fraudulent transaction
+26,369,2025-07-02,2758.63,Duplicate transaction
+27,372,2026-06-14,2462.33,Cardholder did not recognise transaction
+28,376,2025-11-30,2017.27,Duplicate transaction
+29,382,2025-07-20,1381.31,Fraudulent transaction
+30,396,2025-12-22,1143.93,Cardholder did not recognise transaction
+31,443,2025-04-11,2483.27,Service not received
+32,454,2025-11-29,923.11,Duplicate transaction
+33,465,2026-03-07,996.45,Card reported stolen
+34,466,2025-04-12,2355.88,Service not received
+35,508,2025-10-05,1713.37,Service not received
+36,551,2025-06-05,2679.29,Duplicate transaction
+37,557,2025-02-12,2803.60,Fraudulent transaction
+38,598,2026-07-25,1034.31,Service not received
+39,613,2026-06-12,2002.23,Card reported stolen
+40,626,2025-11-11,2868.04,Cardholder did not recognise transaction
+41,628,2025-03-10,2568.09,Duplicate transaction
+42,630,2026-02-26,2068.59,Cardholder did not recognise transaction
+43,641,2026-01-15,2234.87,Duplicate transaction
+44,670,2025-07-01,1262.07,Card reported stolen
+45,705,2026-06-17,1070.26,Fraudulent transaction
+46,754,2025-08-21,2933.22,Fraudulent transaction
+47,789,2026-04-26,1609.93,Service not received
+48,791,2026-08-10,2237.83,Fraudulent transaction
+49,827,2026-01-10,2093.61,Card reported stolen
+50,833,2025-10-04,1110.44,Service not received
+51,853,2026-06-03,1737.04,Fraudulent transaction
+52,871,2026-05-08,3076.21,Fraudulent transaction
+53,882,2026-06-30,1342.87,Service not received
+54,890,2026-07-11,112.22,Duplicate transaction
+55,901,2026-08-08,261.34,Cardholder did not recognise transaction
+56,938,2025-04-22,2845.97,Duplicate transaction
+57,947,2025-07-21,2160.96,Duplicate transaction
+58,967,2026-02-25,2252.37,Fraudulent transaction
+59,1026,2026-05-26,3025.73,Service not received
+60,1039,2026-04-04,3054.54,Card reported stolen
+61,1042,2025-04-06,3175.78,Duplicate transaction
+62,1061,2026-04-19,391.78,Cardholder did not recognise transaction
+63,1063,2026-04-20,3085.08,Duplicate transaction
+64,1092,2025-07-07,1193.35,Duplicate transaction
+65,1104,2026-07-08,912.97,Duplicate transaction
+66,1124,2026-08-07,1553.19,Card reported stolen
+67,1128,2025-11-01,575.38,Card reported stolen
+68,1130,2026-01-11,1875.26,Card reported stolen
+69,1142,2026-06-23,3185.94,Card reported stolen
+70,1152,2026-07-11,2252.17,Card reported stolen
+71,1183,2026-03-23,300.99,Card reported stolen
+72,1214,2026-05-02,1540.75,Cardholder did not recognise transaction
+73,1241,2026-07-01,829.51,Service not received
+74,1268,2026-08-27,1487.27,Fraudulent transaction
+75,1294,2026-06-10,1442.76,Fraudulent transaction
+76,1297,2025-10-02,3155.12,Duplicate transaction
+77,1304,2025-08-07,1630.39,Card reported stolen
+78,1307,2026-08-08,2500.16,Card reported stolen
+79,1396,2026-03-20,1447.20,Fraudulent transaction
+80,1426,2025-02-09,2188.54,Card reported stolen
+81,1430,2025-06-14,2036.15,Fraudulent transaction
+82,1480,2026-04-01,2303.72,Service not received
+83,1553,2026-03-22,1263.27,Service not received
+84,1576,2025-02-20,1997.93,Cardholder did not recognise transaction
+85,1587,2026-06-29,2088.34,Service not received
+86,1604,2026-05-22,359.67,Cardholder did not recognise transaction
+87,1608,2025-05-15,2080.45,Duplicate transaction
+88,1637,2025-07-02,2981.69,Service not received
+89,1643,2026-02-01,2522.03,Card reported stolen
+90,1657,2025-05-04,1465.85,Service not received
+91,1674,2026-07-26,1610.33,Duplicate transaction
+92,1687,2026-08-13,2534.61,Cardholder did not recognise transaction
+93,1700,2026-05-30,1753.53,Card reported stolen
+94,1727,2026-08-22,2288.44,Duplicate transaction
+95,1734,2026-02-16,575.70,Duplicate transaction
+96,1751,2026-05-08,552.02,Card reported stolen
+97,1805,2026-03-08,2837.54,Duplicate transaction
+98,1836,2025-04-08,2404.77,Fraudulent transaction
+99,1846,2025-02-24,2735.36,Card reported stolen
+100,1848,2026-04-11,1403.63,Cardholder did not recognise transaction
+101,1865,2025-05-31,2575.55,Duplicate transaction
+102,1866,2026-04-11,1152.84,Cardholder did not recognise transaction
+103,1889,2025-12-17,643.18,Cardholder did not recognise transaction
+104,1899,2026-07-05,958.37,Service not received
+105,1901,2025-08-13,3092.76,Duplicate transaction
+106,1931,2026-02-19,2880.63,Cardholder did not recognise transaction
+107,1934,2025-07-05,916.53,Service not received
+108,1939,2025-11-05,3068.01,Duplicate transaction
+109,1952,2026-04-20,2037.41,Service not received
+110,1969,2026-07-14,86.08,Cardholder did not recognise transaction
+111,1978,2026-04-27,2406.06,Fraudulent transaction
+112,2020,2025-07-30,87.08,Duplicate transaction
+113,2030,2026-06-05,166.20,Duplicate transaction
+114,2044,2025-05-21,265.86,Fraudulent transaction
+115,2050,2026-02-02,2838.24,Cardholder did not recognise transaction
+116,2052,2026-02-09,2481.01,Cardholder did not recognise transaction
+117,2060,2026-05-18,1402.26,Duplicate transaction
+118,2069,2025-06-26,2297.35,Fraudulent transaction
+119,2124,2026-07-23,2584.22,Fraudulent transaction
+120,2138,2025-08-03,1334.36,Service not received
+121,2142,2026-08-23,1113.04,Service not received
+122,2155,2026-01-30,1071.47,Duplicate transaction
+123,2167,2026-06-03,872.13,Fraudulent transaction
+124,2192,2025-04-15,1931.62,Duplicate transaction
+125,2217,2025-11-17,1412.45,Service not received
+126,2235,2026-03-05,622.48,Cardholder did not recognise transaction
+127,2269,2026-04-06,971.16,Fraudulent transaction
+128,2274,2025-09-25,966.88,Cardholder did not recognise transaction
+129,2277,2025-10-28,155.55,Service not received
+130,2281,2026-04-13,2928.50,Duplicate transaction
+131,2292,2026-03-03,786.65,Card reported stolen
+132,2316,2025-07-25,2616.65,Fraudulent transaction
+133,2322,2026-07-19,1846.48,Duplicate transaction
+134,2344,2025-10-09,1404.78,Fraudulent transaction
+135,2360,2026-01-13,2239.12,Service not received
+136,2397,2026-06-04,518.07,Cardholder did not recognise transaction
+137,2444,2025-02-13,2264.25,Duplicate transaction
+138,2481,2026-05-20,840.93,Duplicate transaction
+139,2482,2025-11-21,2832.35,Duplicate transaction
+140,2486,2026-01-19,1887.48,Duplicate transaction
+141,2492,2025-06-01,1253.10,Card reported stolen
+142,2499,2026-03-03,3063.90,Card reported stolen
+143,2543,2026-05-04,1443.02,Fraudulent transaction
+144,2574,2025-04-17,1571.98,Service not received
+145,2601,2026-01-31,1057.08,Cardholder did not recognise transaction
+146,2613,2026-04-28,1867.82,Fraudulent transaction
+147,2652,2025-11-24,2080.09,Card reported stolen
+148,2655,2025-10-28,1614.99,Card reported stolen
+149,2711,2025-11-24,2431.31,Service not received
+150,2741,2026-06-01,1939.91,Cardholder did not recognise transaction
+151,2767,2026-07-14,531.48,Cardholder did not recognise transaction
+152,2770,2026-06-13,2744.55,Service not received
+153,2780,2026-04-22,2590.27,Fraudulent transaction
+154,2811,2026-06-04,3053.59,Duplicate transaction
+155,2815,2025-09-03,968.86,Card reported stolen
+156,2822,2026-07-21,897.31,Service not received
+157,2834,2025-09-08,1821.96,Fraudulent transaction
+158,2840,2026-03-29,2751.42,Cardholder did not recognise transaction
+159,2865,2026-05-10,1225.22,Service not received
+160,2870,2026-06-15,430.72,Fraudulent transaction
+161,2882,2026-06-17,1344.77,Fraudulent transaction
+162,2902,2026-08-04,827.12,Card reported stolen
+163,2906,2025-06-21,2989.65,Card reported stolen
+164,2921,2026-08-11,316.64,Fraudulent transaction
+165,2925,2026-07-04,2210.69,Card reported stolen
+166,2931,2025-02-27,2851.89,Card reported stolen
+167,2941,2026-04-01,927.39,Card reported stolen
+168,3006,2025-12-23,2668.20,Fraudulent transaction
+169,3051,2026-07-01,3173.15,Service not received
+170,3067,2025-07-10,3013.70,Card reported stolen
+171,3085,2025-05-25,632.09,Duplicate transaction
+172,3091,2026-01-22,1077.17,Card reported stolen
+173,3094,2026-08-03,2403.82,Fraudulent transaction
+174,3108,2025-08-23,1211.56,Cardholder did not recognise transaction
+175,3147,2026-04-24,713.79,Service not received
+176,3172,2026-01-03,2819.53,Fraudulent transaction
+177,3191,2026-07-01,1764.88,Duplicate transaction
+178,3200,2025-05-17,880.79,Cardholder did not recognise transaction
+179,3228,2025-02-22,1122.69,Cardholder did not recognise transaction
+180,3233,2025-10-08,1125.28,Fraudulent transaction
+181,3244,2026-06-23,889.61,Service not received
+182,3259,2025-12-30,2351.74,Card reported stolen
+183,3278,2025-02-20,354.93,Cardholder did not recognise transaction
+184,3301,2026-08-04,1375.04,Fraudulent transaction
+185,3308,2025-11-29,1020.67,Card reported stolen
+186,3343,2026-06-17,1560.77,Card reported stolen
+187,3365,2026-06-29,417.73,Duplicate transaction
+188,3371,2025-06-23,438.13,Service not received
+189,3384,2026-04-28,1943.24,Service not received
+190,3386,2025-04-26,1724.77,Card reported stolen
+191,3410,2026-01-26,3196.50,Service not received
+192,3442,2026-06-12,1269.96,Duplicate transaction
+193,3453,2026-04-15,1543.97,Fraudulent transaction
+194,3497,2026-05-21,2304.26,Fraudulent transaction
+195,3503,2025-03-17,3047.67,Fraudulent transaction
+196,3521,2026-04-17,2918.49,Service not received
+197,3556,2026-07-03,2247.69,Card reported stolen
+198,3584,2025-11-10,867.32,Service not received
+199,3585,2026-06-29,2075.78,Fraudulent transaction
+200,3588,2025-03-01,2264.29,Service not received
+201,3603,2026-01-06,732.12,Fraudulent transaction
+202,3607,2025-02-20,2407.59,Fraudulent transaction
+203,3614,2026-05-26,578.99,Duplicate transaction
+204,3634,2026-06-24,2810.73,Cardholder did not recognise transaction
+205,3642,2025-11-19,2501.66,Duplicate transaction
+206,3683,2025-06-24,2768.54,Fraudulent transaction
+207,3685,2025-07-23,1471.11,Fraudulent transaction
+208,3745,2026-06-20,2352.62,Service not received
+209,3755,2026-01-03,2271.00,Duplicate transaction
+210,3765,2026-07-05,1864.08,Card reported stolen
+211,3778,2026-07-14,912.48,Fraudulent transaction
+212,3802,2026-08-23,280.39,Service not received
+213,3822,2026-02-10,1328.95,Cardholder did not recognise transaction
+214,3834,2026-06-06,2094.26,Service not received
+215,3881,2026-06-15,1742.96,Card reported stolen
+216,3903,2025-12-31,1754.27,Card reported stolen
+217,3911,2025-12-24,235.28,Duplicate transaction
+218,3913,2026-04-23,558.84,Service not received
+219,3922,2026-02-16,2459.24,Duplicate transaction
+220,3923,2025-11-06,2912.43,Card reported stolen
+221,3944,2026-07-02,405.30,Duplicate transaction
+222,3972,2025-05-12,2116.48,Duplicate transaction
+223,3974,2025-06-11,607.16,Card reported stolen
+224,3984,2026-03-07,1576.25,Duplicate transaction
+225,3992,2025-12-13,2495.21,Card reported stolen
+226,4044,2026-06-17,2941.05,Duplicate transaction
+227,4065,2026-04-27,829.28,Fraudulent transaction
+228,4069,2025-09-24,2840.90,Duplicate transaction
+229,4080,2026-07-29,245.43,Duplicate transaction
+230,4087,2025-04-23,1193.06,Duplicate transaction
+231,4097,2025-01-27,1925.36,Duplicate transaction
+232,4103,2026-03-10,884.32,Card reported stolen
+233,4123,2026-02-15,1946.10,Card reported stolen
+234,4154,2026-04-30,3032.17,Fraudulent transaction
+235,4156,2025-08-06,208.63,Cardholder did not recognise transaction
+236,4203,2026-02-28,2307.31,Card reported stolen
+237,4236,2025-07-07,537.79,Fraudulent transaction
+238,4238,2026-08-28,2810.14,Duplicate transaction
+239,4242,2026-03-08,1599.05,Card reported stolen
+240,4268,2026-01-14,1338.48,Cardholder did not recognise transaction
+241,4298,2026-05-31,671.16,Fraudulent transaction
+242,4302,2026-08-02,2803.21,Cardholder did not recognise transaction
+243,4316,2026-01-21,2417.27,Duplicate transaction
+244,4327,2025-09-11,2841.76,Card reported stolen
+245,4330,2026-06-28,2555.49,Duplicate transaction
+246,4347,2026-09-01,228.08,Service not received
+247,4377,2025-02-13,3038.94,Fraudulent transaction
+248,4393,2026-05-12,2475.06,Fraudulent transaction
+249,4416,2026-04-22,869.94,Duplicate transaction
+250,4420,2026-04-29,1146.10,Card reported stolen
+251,4429,2025-02-18,2352.85,Fraudulent transaction
+252,4436,2025-02-24,2453.25,Cardholder did not recognise transaction
+253,4454,2025-08-19,1773.63,Cardholder did not recognise transaction
+254,4459,2025-02-08,889.80,Service not received
+255,4463,2025-01-19,800.73,Fraudulent transaction
+256,4464,2025-05-05,1176.55,Duplicate transaction
+257,4473,2026-07-06,337.57,Duplicate transaction
+258,4478,2025-05-12,1918.83,Card reported stolen
+259,4482,2025-07-03,1954.93,Duplicate transaction
+260,4516,2026-04-18,1352.93,Card reported stolen
+261,4527,2026-07-03,2311.57,Service not received
+262,4530,2025-01-26,1844.21,Duplicate transaction
+263,4559,2025-09-26,2388.93,Cardholder did not recognise transaction
+264,4577,2025-12-24,2372.46,Card reported stolen
+265,4603,2026-05-31,149.72,Cardholder did not recognise transaction
+266,4620,2025-07-30,970.27,Card reported stolen
+267,4623,2025-06-05,1992.92,Service not received
+268,4654,2026-08-09,2127.48,Cardholder did not recognise transaction
+269,4673,2025-09-11,2857.59,Card reported stolen
+270,4701,2025-12-12,2022.84,Duplicate transaction
+271,4714,2026-03-02,259.05,Service not received
+272,4719,2026-05-01,2970.34,Card reported stolen
+273,4752,2026-07-19,1051.64,Fraudulent transaction
+274,4758,2025-09-16,3173.33,Card reported stolen
+275,4774,2026-03-04,882.67,Service not received
+276,4775,2026-07-25,2198.93,Card reported stolen
+277,4789,2026-04-02,1991.12,Duplicate transaction
+278,4803,2025-12-08,824.26,Service not received
+279,4818,2026-04-18,212.56,Fraudulent transaction
+280,4901,2025-10-08,2173.79,Fraudulent transaction
+281,4902,2026-04-21,1141.04,Fraudulent transaction
+282,4928,2026-07-04,2298.11,Cardholder did not recognise transaction
+283,4935,2025-05-24,454.59,Card reported stolen
+284,4982,2025-07-13,3038.09,Fraudulent transaction
+285,4998,2026-04-02,1573.65,Service not received
+286,5008,2026-07-01,2907.62,Card reported stolen
+287,5013,2025-03-04,2052.03,Service not received
+288,5018,2025-08-13,2190.73,Service not received
+289,5067,2025-12-06,2112.81,Cardholder did not recognise transaction
+290,5079,2026-06-26,2016.96,Duplicate transaction
+291,5124,2026-06-29,2337.16,Fraudulent transaction
+292,5139,2026-02-06,193.24,Service not received
+293,5172,2026-05-19,2185.61,Cardholder did not recognise transaction
+294,5177,2025-09-15,216.72,Duplicate transaction
+295,5203,2025-11-10,1109.03,Cardholder did not recognise transaction
+296,5285,2026-07-11,3101.33,Duplicate transaction
+297,5302,2026-02-24,914.24,Duplicate transaction
+298,5325,2025-06-05,894.10,Card reported stolen
+299,5328,2025-10-22,2144.72,Cardholder did not recognise transaction
+300,5329,2026-07-24,1916.82,Duplicate transaction
+301,5342,2026-03-19,578.09,Fraudulent transaction
+302,5352,2025-11-05,2515.67,Service not received
+303,5353,2026-03-29,2523.46,Card reported stolen
+304,5355,2026-05-09,1571.06,Card reported stolen
+305,5368,2025-08-22,1953.67,Fraudulent transaction
+306,5374,2026-06-19,2399.62,Duplicate transaction
+307,5379,2026-05-19,2526.10,Cardholder did not recognise transaction
+308,5384,2026-06-22,1863.28,Duplicate transaction
+309,5394,2026-06-08,2277.74,Card reported stolen
+310,5398,2026-08-05,3027.51,Card reported stolen
+311,5411,2025-10-10,1052.59,Cardholder did not recognise transaction
+312,5428,2025-09-24,1450.09,Cardholder did not recognise transaction
+313,5435,2026-08-09,1729.89,Service not received
+314,5450,2026-08-26,3126.32,Card reported stolen
+315,5522,2025-01-19,282.83,Fraudulent transaction
+316,5566,2025-05-26,1487.93,Cardholder did not recognise transaction
+317,5587,2026-05-25,1727.54,Duplicate transaction
+318,5603,2026-08-04,1295.75,Fraudulent transaction
+319,5672,2026-04-14,762.50,Cardholder did not recognise transaction
+320,5698,2025-11-02,1565.85,Duplicate transaction
+321,5717,2026-05-12,3124.70,Duplicate transaction
+322,5721,2025-10-13,3011.23,Cardholder did not recognise transaction
+323,5724,2026-04-07,2050.85,Service not received
+324,5762,2026-07-07,950.31,Duplicate transaction
+325,5780,2026-07-18,1080.22,Fraudulent transaction
+326,5786,2026-05-04,1108.79,Fraudulent transaction
+327,5805,2026-04-25,3126.17,Cardholder did not recognise transaction
+328,5842,2025-04-23,1146.19,Fraudulent transaction
+329,5847,2026-05-05,315.34,Cardholder did not recognise transaction
+330,5881,2026-06-02,1981.65,Card reported stolen
+331,5896,2026-07-27,321.30,Fraudulent transaction
+332,5964,2026-03-17,261.69,Duplicate transaction
+333,5966,2026-06-29,2696.63,Card reported stolen
+334,5980,2026-08-06,1346.37,Cardholder did not recognise transaction
+335,6012,2026-06-24,783.60,Fraudulent transaction
+336,6016,2025-12-28,339.41,Fraudulent transaction
+337,6023,2026-07-18,1191.94,Cardholder did not recognise transaction
+338,6057,2026-05-26,2427.44,Service not received
+339,6078,2025-06-30,2927.65,Cardholder did not recognise transaction
+340,6080,2026-07-01,1646.34,Card reported stolen
+341,6124,2025-02-01,1343.64,Card reported stolen
+342,6144,2026-02-03,751.38,Service not received
+343,6166,2025-11-06,463.93,Duplicate transaction
+344,6226,2025-02-28,2755.65,Cardholder did not recognise transaction
+345,6248,2025-11-13,2421.36,Cardholder did not recognise transaction
+346,6254,2026-07-13,1567.02,Card reported stolen
+347,6272,2025-03-27,1688.65,Cardholder did not recognise transaction
+348,6273,2026-07-07,3115.43,Duplicate transaction
+349,6302,2026-07-24,2339.16,Fraudulent transaction
+350,6323,2026-05-09,2016.87,Card reported stolen
+351,6338,2026-07-05,2776.80,Service not received
+352,6344,2026-06-09,744.46,Service not received
+353,6392,2026-08-14,1757.02,Cardholder did not recognise transaction
+354,6405,2026-04-16,1936.38,Cardholder did not recognise transaction
+355,6429,2026-01-31,417.77,Card reported stolen
+356,6431,2026-05-07,2026.64,Cardholder did not recognise transaction
+357,6449,2026-01-03,2370.33,Fraudulent transaction
+358,6455,2026-02-16,2246.88,Duplicate transaction
+359,6472,2026-01-24,2532.56,Duplicate transaction
+360,6498,2025-08-15,1694.84,Cardholder did not recognise transaction
+361,6508,2025-05-13,2306.31,Cardholder did not recognise transaction
+362,6562,2025-05-16,885.89,Fraudulent transaction
+363,6567,2025-09-26,2503.27,Duplicate transaction
+364,6569,2026-06-04,3148.84,Cardholder did not recognise transaction
+365,6616,2026-07-05,968.92,Fraudulent transaction
+366,6617,2026-05-04,2404.82,Duplicate transaction
+367,6624,2026-01-13,2808.48,Cardholder did not recognise transaction
+368,6636,2025-12-16,2801.30,Fraudulent transaction
+369,6647,2026-08-06,2044.97,Service not received
+370,6657,2026-05-14,2434.20,Card reported stolen
+371,6667,2025-05-06,355.76,Cardholder did not recognise transaction
+372,6688,2026-04-25,2990.87,Cardholder did not recognise transaction
+373,6691,2025-05-06,2193.55,Fraudulent transaction
+374,6729,2026-08-03,434.51,Service not received
+375,6730,2025-09-22,2445.85,Duplicate transaction
+376,6780,2025-08-03,1433.42,Card reported stolen
+377,6785,2026-02-13,1814.51,Service not received
+378,6799,2026-05-01,1670.46,Fraudulent transaction
+379,6820,2026-04-08,1881.85,Service not received
+380,6887,2026-03-01,1756.69,Cardholder did not recognise transaction
+381,6893,2025-09-26,2284.58,Card reported stolen
+382,6969,2025-07-31,774.11,Fraudulent transaction
+383,6980,2026-07-27,2918.28,Fraudulent transaction
+384,6985,2025-03-27,1613.32,Fraudulent transaction
+385,6990,2026-07-24,3088.50,Fraudulent transaction
+386,7012,2026-08-15,2485.81,Card reported stolen
+387,7048,2025-03-26,1993.39,Fraudulent transaction
+388,7054,2025-12-22,1192.68,Duplicate transaction
+389,7082,2025-03-25,2803.36,Fraudulent transaction
+390,7132,2026-01-14,1467.07,Duplicate transaction
+391,7140,2026-01-23,1669.41,Cardholder did not recognise transaction
+392,7148,2026-01-15,2068.38,Duplicate transaction
+393,7154,2025-08-18,384.66,Duplicate transaction
+394,7175,2026-05-09,1470.59,Service not received
+395,7180,2026-04-30,1584.97,Cardholder did not recognise transaction
+396,7181,2026-07-29,784.30,Card reported stolen
+397,7195,2025-06-28,524.92,Service not received
+398,7215,2026-05-20,746.27,Duplicate transaction
+399,7216,2025-02-07,1891.34,Cardholder did not recognise transaction
+400,7249,2026-01-27,1270.76,Cardholder did not recognise transaction
+401,7275,2025-03-06,2571.71,Fraudulent transaction
+402,7278,2025-12-18,2812.00,Duplicate transaction
+403,7287,2026-04-14,1065.76,Duplicate transaction
+404,7295,2026-06-20,2361.84,Card reported stolen
+405,7301,2025-12-26,935.32,Card reported stolen
+406,7307,2025-09-02,974.43,Card reported stolen
+407,7312,2026-02-09,397.68,Card reported stolen
+408,7339,2026-05-08,1995.70,Duplicate transaction
+409,7350,2025-02-20,2546.04,Duplicate transaction
+410,7354,2025-03-16,1567.93,Fraudulent transaction
+411,7371,2025-04-08,2836.38,Fraudulent transaction
+412,7372,2025-12-28,299.74,Card reported stolen
+413,7377,2025-08-17,1561.29,Fraudulent transaction
+414,7394,2026-04-12,1817.27,Duplicate transaction
+415,7431,2025-03-23,328.66,Card reported stolen
+416,7440,2026-06-26,2713.60,Fraudulent transaction
+417,7463,2026-07-06,2424.77,Duplicate transaction
+418,7467,2025-11-28,914.70,Card reported stolen
+419,7497,2026-05-24,2754.16,Service not received
+420,7506,2026-01-19,3069.51,Duplicate transaction
+421,7515,2026-06-22,651.45,Cardholder did not recognise transaction
+422,7516,2025-09-20,2622.93,Duplicate transaction
+423,7521,2026-08-14,2424.31,Duplicate transaction
+424,7556,2025-11-04,2530.99,Fraudulent transaction
+425,7571,2026-05-06,1562.65,Cardholder did not recognise transaction
+426,7614,2026-03-09,2292.40,Card reported stolen
+427,7629,2026-06-06,1314.12,Fraudulent transaction
+428,7634,2025-04-20,1948.14,Card reported stolen
+429,7641,2026-02-26,426.36,Service not received
+430,7654,2026-02-28,2160.55,Cardholder did not recognise transaction
+431,7676,2026-05-04,2453.55,Fraudulent transaction
+432,7684,2026-04-17,1159.23,Fraudulent transaction
+433,7688,2026-06-17,2559.19,Cardholder did not recognise transaction
+434,7713,2026-02-24,1532.80,Fraudulent transaction
+435,7762,2025-02-27,340.09,Duplicate transaction
+436,7765,2025-06-18,1129.03,Cardholder did not recognise transaction
+437,7788,2025-09-17,1576.98,Cardholder did not recognise transaction
+438,7792,2025-05-06,393.30,Cardholder did not recognise transaction
+439,7809,2026-05-16,1351.18,Card reported stolen
+440,7846,2026-04-23,2748.14,Service not received
+441,7863,2025-04-06,2774.60,Duplicate transaction
+442,7886,2025-02-20,1506.56,Card reported stolen
+443,7888,2026-01-18,2502.69,Duplicate transaction
+444,7928,2026-02-22,321.20,Duplicate transaction
+445,7931,2026-03-15,1788.26,Cardholder did not recognise transaction
+446,7959,2025-06-24,988.46,Fraudulent transaction
+447,7974,2026-07-27,2610.09,Card reported stolen
+448,7975,2025-02-08,830.86,Duplicate transaction
+449,7995,2025-02-18,2935.72,Service not received

@@ -1,0 +1,5 @@
+risk_level,total_bookings,total_booking_value,average_risk_score,confirmed_fraud,false_positives
+Medium,1792,2247793.21,38.23,69,0
+Low,5618,4918297.80,9.91,1,0
+Critical,228,528462.10,100.44,225,3
+High,362,648347.96,69.48,185,177

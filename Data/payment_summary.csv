@@ -1,0 +1,5 @@
+payment_method,total_bookings,total_booking_value,confirmed_fraud,fraud_rate_percent,average_risk_score
+Amex,2041,2143502.72,122,5.98,21.96
+Visa,2061,2134360.50,124,6.02,20.97
+Mastercard,1881,1951601.59,120,6.38,21.38
+PayPal,2017,2113436.26,114,5.65,21.81

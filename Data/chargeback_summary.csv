@@ -1,0 +1,6 @@
+chargeback_reason,total_chargebacks,total_chargeback_value,average_chargeback_value
+"Service not received",73,119033.09,1630.59
+"Card reported stolen",93,169432.84,1821.86
+"Cardholder did not recognise transaction",84,138738.57,1651.65
+"Fraudulent transaction",95,166678.19,1754.51
+"Duplicate transaction",104,194260.11,1867.89

@@ -1,0 +1,8 @@
+fraud_signal,flagged_bookings
+"High value booking",1510
+"Last-minute booking",750
+"Country mismatch",3457
+"Repeated failed payments",1208
+"New account and high value",97
+"Shared device",1431
+"Shared card",1249
