@@ -326,7 +326,7 @@ def generate_data(customer_count, booking_count, output_dir, seed):
         fraud_labels
     )
 
-    print(f"Created files in: {output_dir.resolve()}")
+    print(f"Created files in: {output_dir}")
     print(f"Customers: {len(customers)}")
     print(f"Bookings: {len(bookings)}")
     print(f"Payments: {len(payments)}")
