@@ -70,23 +70,20 @@ The project contains:
 
 ## How to Run
 
-Set up the database
+**1. Set up the database**
+
 Run the SQL scripts in order using MySQL Workbench (or the MySQL CLI):
-   - SQL/01_create_database.sql
-   - SQL/02_create_tables.sql
-   - SQL/03_fraud_detection_views.sql
-   - SQL/04_risk_scoring.sql
-   - SQL/05_powerbi_views.sql
-   - SQL/06_analysis_queries.sql
-   - 
-Generate the synthetic data
+
+- SQL/01_create_database.sql
+- SQL/02_create_tables.sql
+- SQL/03_fraud_detection_views.sql
+- SQL/04_risk_scoring.sql
+- SQL/05_powerbi_views.sql
+- SQL/06_analysis_queries.sql
+
+**2. Generate the synthetic data**
+
 No external packages needed — the script only uses Python's standard library.
-   python generate_travel_fraud_data_v2.py
-
-This creates six CSV files (customers.csv, bookings.csv, payments.csv, passengers.csv, chargebacks.csv, fraud_labels.csv), which can then be loaded into the corresponding MySQL tables.
-
-Open the dashboard
-Open Dashboard/travel_fraud_dashboard.pbix in Power BI Desktop and point the data source to your local MySQL instance (travel_booking_fraud database).
 
 ## Tools I used
 
