@@ -128,6 +128,6 @@ travel-booking-fraud-detection/
 │   ├── 04_risk_scoring.sql
 │   ├── 05_powerbi_views.sql
 │   └── 06_analysis_queries.sql
-├── generate_travel_fraud_data_v2.py
+├── generate_travel_fraud_data.py
 ├── .gitignore
 └── README.md
