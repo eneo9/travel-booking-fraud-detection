@@ -85,6 +85,15 @@ Run the SQL scripts in order using MySQL Workbench (or the MySQL CLI):
 
 No external packages needed — the script only uses Python's standard library.
 
+python generate_travel_fraud_data_v2.py
+
+
+This creates six CSV files (`customers.csv`, `bookings.csv`, `payments.csv`, `passengers.csv`, `chargebacks.csv`, `fraud_labels.csv`), which can then be loaded into the corresponding MySQL tables.
+
+**3. Open the dashboard**
+
+Open `Dashboard/travel_fraud_dashboard.pbix` in Power BI Desktop and point the data source to your local MySQL instance (`travel_booking_fraud` database).
+
 ## Tools I used
 
 - Python
