@@ -69,6 +69,7 @@ The project contains:
 - £788.14K total chargeback value
 
   ## How to Run
+  
 Set up the database
 Run the SQL scripts in order using MySQL Workbench (or the MySQL CLI):
   -  SQL/01_create_database.sql
