@@ -5,7 +5,10 @@ CREATE TABLE IF NOT EXISTS customers (
     full_name VARCHAR(100),
     email VARCHAR(150),
     account_created_date DATE,
-    country_code CHAR(2)
+    country_code CHAR(2),
+    date_of_birth DATE,
+    account_status VARCHAR(20)
+
 );
 
 CREATE TABLE IF NOT EXISTS bookings (
